@@ -1,4 +1,4 @@
-# osTicket-Ticket-Lifetime-Examples
+
 <p align="center">
 <img src=https://i.imgur.com/BQKsviY.png"/></P>
 </p>
