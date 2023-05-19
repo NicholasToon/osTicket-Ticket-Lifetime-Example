@@ -1,6 +1,6 @@
 # osTicket-Ticket-Lifetime-Examples
 <p align="center">
-<img src="https://i.imgur.com/gNYiwD9.png"/></P>
+<img src=https://i.imgur.com/BQKsviY.png"/></P>
 </p>
 
 <h2>osTicket Lifecycle Examples<h2/>
