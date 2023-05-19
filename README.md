@@ -3,7 +3,6 @@
 <img src=https://i.imgur.com/BQKsviY.png"/></P>
 </p>
 
-<h2>osTicket Lifecycle Examples<h2/>
 <h2> After installing osTicket and configuration I will be demonstrating the lifecycle of a ticket. <h2/>
 
 First you need to open a new ticket as a customer/user. 
