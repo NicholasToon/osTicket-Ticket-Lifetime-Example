@@ -4,54 +4,69 @@
 </p>
 
 <h2> After installing osTicket and configuration I will be demonstrating the lifecycle of a ticket. <h2/>
+<h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
+This tutorial outlines the lifecycle of a ticket from intake to resolution within the open-source help desk ticketing system osTicket.<br />
 
-First you need to open a new ticket as a customer/user. 
- - Go to Ticket Portal
- - Sign in as a user
 
-<p align="center">
-<img src="https://i.imgur.com/lfobSMW.png"/></P>
+<h2>Environments and Technologies Used</h2>
+
+- Microsoft Azure (Virtual Machines/Compute)
+- Remote Desktop
+- Internet Information Services (IIS)
+
+<h2>Operating Systems Used </h2>
+
+- Windows 10</b> (21H2)
+
+<h2>Ticket Lifecycle Stages</h2>
+
+- Intake
+- Assignment and Communication
+- Working the Issue
+- Resolution
+
+<h2>Ticket Lifecycle Examples</h2>
+
+<p>
+<img src="https://i.imgur.com/tdQwOF9.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
-
-
-
-<p align="center">
-<img src="https://i.imgur.com/9RGQjTp.png"/></P>
-</p>
-
-Enter ticket details > create the ticket
-<p align="center">
-<img src="https://i.imgur.com/jmuF6Iu.png"/></P>
-<p> Log out of user and sign in as the MAIN ADMIN </p>
-<img src="https://i.imgur.com/tc82TRo.png"/></p>
-</p>
-
-Assign the tickets...
-- SLA (Service-level agreement)
-- AGENT (that will be working on ticket)
-
-<p align="center">
-<img src="https://i.imgur.com/ufd5ZUX.png"/></P>
-<img src="https://i.imgur.com/MPxx0Zh.png"/></P>
-</p>
-
-
-Sign in as an agent to work the ticket
-
-<p align="center">
-<img src="https://i.imgur.com/tBvyQ6G.png"/></P>
+<p>
+Creating a ticket
 </p>
 <br />
 
-Click to OPEN the ticket.
-<h2> <a>Once the ticket is resolved, explain the issue and how it was fixed.<a/>
-<a>Pick the status and reply to the customer.<a/><h2/>
+<p>
+<img src="https://i.imgur.com/Xy9ubVV.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Intake
 
-<p align="center">
-<img src="https://i.imgur.com/VL8ipVL.png"/></P>
+</p>
+<br />
 
+<p>
+<img src="https://i.imgur.com/PnZxUGW.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Assignment and Communication
 
-Ticket is closed/resolved
+</p>
+<br />
 
+<p>
+<img src="https://i.imgur.com/R7rVsuF.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Working the Issue
 
-This is the end of this tutorial.
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/niFmsiQ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Resolution
+
+</p>
+<br />
