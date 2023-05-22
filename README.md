@@ -31,7 +31,7 @@ In this tutorial, I'll walk you through the journey of a ticket within osTicket.
 <img src="" />
 </p>
 <p>
-[Creating a ticket](http://localhost/osTicket/)
+Go into your broser and enter http://localhost/osTicket/
 </p>
 <br />
 
