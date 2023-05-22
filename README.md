@@ -34,5 +34,25 @@ In this tutorial, I'll walk you through the journey of a ticket within osTicket.
 <h3> Go into your browser and enter http://localhost/osTicket/ to open tickets as a customer/(End)  User. </h3>
 </p>
 <br />
+           
+                      
+<p>
+<img src="" />
+</p>
+<p>
+<h3> Return to http://localhost/osTicket/scp/login.php </h3>
+Get to the Staff Control Panel by signing into the account you desginated as Admin and go to the agent panel. You will now see the Ticket we created and will be able assign the agent that will be working on it and the ticket severity AKA SLA
+           
+</p>
+<br />           
+
+<p>
+<img src="" />
+</p>
+<p>
+<h3>  </h3>
+
+</p>
+<br />       
 
 
