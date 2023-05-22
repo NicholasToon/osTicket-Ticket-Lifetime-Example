@@ -4,7 +4,7 @@
 </p>
 
 <h1>osTicket - Ticket Lifecycle: Intake Through Resolution</h1>
-In this tutorial, I'll walk you through the journey of a ticket within osTicket. We'll cover everything from its creation to its resolution. (The is a short tutorial. This tutorial will be confusing if you have not followed the previous prerequites and configuration tutorials). <br />
+In this tutorial, I'll walk you through the journey of a ticket within osTicket. We'll cover everything from its creation to its resolution. (This is a short tutorial. The tutorial will be confusing if you have not followed the previous prerequites and configuration tutorials). <br />
 
 
 <h2>Environments and Technologies Used</h2>
