@@ -28,45 +28,11 @@ In this tutorial, I'll walk you through the journey of a ticket within osTicket.
 <h2>Ticket Lifecycle Examples</h2>
 
 <p>
-<img src="https://i.imgur.com/tdQwOF9.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" />
 </p>
 <p>
-Creating a ticket
+[Creating a ticket](http://localhost/osTicket/)
 </p>
 <br />
 
-<p>
-<img src="https://i.imgur.com/Xy9ubVV.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Intake
 
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/PnZxUGW.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Assignment and Communication
-
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/R7rVsuF.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Working the Issue
-
-</p>
-<br />
-
-<p>
-<img src="https://i.imgur.com/niFmsiQ.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Resolution
-
-</p>
-<br />
