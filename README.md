@@ -12,6 +12,7 @@ In this tutorial, I'll walk you through the journey of a ticket within osTicket.
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
+- osTicket                                         
 
 <h2>Operating Systems Used </h2>
 
