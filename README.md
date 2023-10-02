@@ -38,10 +38,10 @@ In this tutorial, I'll walk you through the journey of a ticket within osTicket.
 
 <h2> Stage 1: Intake</h2>
 <p>
-<img src=" />
+<img src=https://i.imgur.com/mvnz6Vb.png" />
 </p>
 <p>
-<h3> Go into your browser and enter http://localhost/osTicket/ to open tickets as a customer/(End)  User. </h3>
+<h3> This is the stage when a new ticket is created. There are a couple of ways to submit a ticket—either by filling out a form, like the one shown here, or by sending an email to a designated ticketing address. To ensure that your issue is resolved (provided you find yourself submitting a ticket), you will want to provide your contact information, describe the topic/issue, and provide all the necessary details about the problem. </h3>
 </p>
 <br />
            
