@@ -60,10 +60,13 @@ Get to the Staff Control Panel by signing into the account you desginated as Adm
 <br />           
 
 <p>
-<img src=" />
+<h2> Stage 3: Working the Issue </h2>
+<img src=https://i.imgur.com/BijdBMr.png" />
+<img src=https://i.imgur.com/R6J9osU.png" />
+<img src=https://i.imgur.com/c48GwN6.png" />
 </p>
 
-<h2> Stage 3: Working the Issue           
+          
 <p>
 <h3>  </h3>
 
