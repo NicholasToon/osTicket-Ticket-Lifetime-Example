@@ -68,8 +68,7 @@ Get to the Staff Control Panel by signing into the account you desginated as Adm
 
           
 <p>
-<h3>  </h3>
-
+The ticket has now been assigned to the apprpriate department, the IT team can start working on a solution to the issue. During this process, any changes of note will appear in the Ticket Thread. Thankfully, a password reset is typically easy. Forward the"Send Password Reset Email" to the designated user that is requesting a reset and they can take care of the rest.
 </p>
 <br />       
 
