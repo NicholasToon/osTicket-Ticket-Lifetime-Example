@@ -46,11 +46,12 @@ In this tutorial, I'll walk you through the journey of a ticket within osTicket.
 <br />
            
                       
-<p>
-<img src=https://i.imgur.com/IrCiizx.png" />
-</p>
+
 <p>
 <h2> Step 2: Assignment <h2>
+<p>
+<img src=https://i.imgur.com/IrCiizx.png" />
+</p> 
 <h3> Return to http://localhost/osTicket/scp/login.php </h3>
 Get to the Staff Control Panel by signing into the account you desginated as Admin and go to the agent panel. You will now see the Ticket we created and will be able assign the agent that will be working on it and the ticket severity AKA SLA
            
