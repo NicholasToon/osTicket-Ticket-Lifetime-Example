@@ -28,7 +28,7 @@ In this tutorial, I'll walk you through the journey of a ticket within osTicket.
 <h2>Ticket Lifecycle Examples</h2>
 
 <p>
-<img src="" />
+<img src="https://i.imgur.com/ejPZZ1Z.png" />
 </p>
 <p>
 <h3> Go into your browser and enter http://localhost/osTicket/ to open tickets as a customer/(End)  User. </h3>
