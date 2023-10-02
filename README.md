@@ -51,9 +51,10 @@ In this tutorial, I'll walk you through the journey of a ticket within osTicket.
 <h2> Step 2: Assignment <h2>
 <p>
 <img src=https://i.imgur.com/IrCiizx.png" />
+<img src=https://i.imgur.com/VDsqAOj.png" />           
 </p> 
 <h3> Return to http://localhost/osTicket/scp/login.php </h3>
-Get to the Staff Control Panel by signing into the account you desginated as Admin and go to the agent panel. You will now see the Ticket we created and will be able assign the agent that will be working on it and the ticket severity AKA SLA
+Get to the Staff Control Panel by signing into the account you desginated as Admin and go to the agent panel. You will now see the Ticket we created and will be able assign the agent that will be working on it and the ticket severity AKA SLA. In this example, I change priority to "Normal," the SLA plan to "SEV-B," and assign it to the "Support" department. If I had any agents in my "Support" department, I would then assign it to the said agent for this scenario.
            
 </p>
 <br />           
