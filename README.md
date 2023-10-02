@@ -47,7 +47,7 @@ In this tutorial, I'll walk you through the journey of a ticket within osTicket.
            
                       
 <p>
-<img "src=https://i.imgur.com/IrCiizx.png" />
+<img src=https://i.imgur.com/IrCiizx.png" />
 </p>
 <p>
 <h2> Step 2: Assignment <h2>
