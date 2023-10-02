@@ -37,7 +37,7 @@ In this tutorial, I'll walk you through the journey of a ticket within osTicket.
            
                       
 <p>
-<img src="" />
+<img src=https://i.imgur.com/8S1CJoh.png" />
 </p>
 <p>
 <h3> Return to http://localhost/osTicket/scp/login.php </h3>
