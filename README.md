@@ -34,6 +34,15 @@ In this tutorial, I'll walk you through the journey of a ticket within osTicket.
 <h3> Go into your browser and enter http://localhost/osTicket/ to open tickets as a customer/(End)  User. </h3>
 </p>
 <br />
+
+<h2> Stage 1: Intake</h2>
+<p>
+<img src=" />
+</p>
+<p>
+<h3> Go into your browser and enter http://localhost/osTicket/ to open tickets as a customer/(End)  User. </h3>
+</p>
+<br />
            
                       
 <p>
