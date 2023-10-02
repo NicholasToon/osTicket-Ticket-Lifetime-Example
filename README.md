@@ -72,4 +72,17 @@ The ticket has now been assigned to the apprpriate department, the IT team can s
 </p>
 <br />       
 
+<p>
+<h2> Stage 4: Resolution </h2>
+<img src=https://i.imgur.com/QJ4NMSK.png" />
+</p>
+
+          
+<p>
+After the issue has been successfully addressed, you have the option to label the ticket as "closed." Within the osTicket system, as part of this process, tickets that are marked as closed are moved from the "Open" section to the "Closed" section.
+
+That was the four stages of a Ticket! I hope this guide was helpful for others in their understanding of everday IT scenarios.
+</p>
+<br />       
+
 
