@@ -54,7 +54,7 @@ This is the stage when a new ticket is created. There are a couple of ways to su
 <img src=https://i.imgur.com/VDsqAOj.png" />           
 </p> 
 <h3> Return to http://localhost/osTicket/scp/login.php </h3>
-Get to the Staff Control Panel by signing into the account you desginated as Admin and go to the agent panel. You will now see the Ticket we created and will be able assign the agent that will be working on it and the ticket severity AKA SLA. In this example, I change priority to "Normal," the SLA plan to "SEV-B," and assign it to the "Support" department. If I had any agents in my "Support" department, I would then assign it to the said agent for this scenario.
+Get to the Staff Control Panel by signing into the account you desginated as Admin and go to the agent panel. You will now see the Ticket we created and will be able assign the agent that will be working on it and the ticket severity AKA SLA. In this example, I change priority to "Normal," the SLA plan to "SEV-B," and assign it to the "Support" department. If I had any agents in my "Support" department, I would then assign it to said agent for this scenario.
            
 </p>
 <br />           
