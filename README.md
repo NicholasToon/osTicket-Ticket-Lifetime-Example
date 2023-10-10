@@ -8,7 +8,7 @@ In this tutorial, I'll walk you through the journey of a ticket within osTicket.
 ## Environments and Technologies Used 
 
 - Microsoft Azure (Virtual Machines/Compute)
-- Remote Desktop
+- Remote Desktop Connection (RDC)
 - Internet Information Services (IIS)
 - osTicket                                         
 
