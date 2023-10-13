@@ -14,7 +14,7 @@ In this tutorial, I'll walk you through the journey of a ticket within osTicket.
 
 ## Operating Systems Used 
 
-- Windows 10 (21H2)
+- Windows 10 Pro (22H2)
 
 ## Ticket Lifecycle Stages
 
