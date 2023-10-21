@@ -4,6 +4,8 @@
 # osTicket - Ticket Lifecycle: Intake Through Resolution #
 In this tutorial, I'll walk you through the journey of a ticket within osTicket. We'll cover everything from its creation to its resolution. (Please note that this is a short tutorial and may be confusing if you have not followed the previous prerequisites and configuration tutorials).
 
+*Always delete your resource groups and other environments in Azure to avoid incurring any unwanted charges on your free credits or actual money. Keep resources open at your own discretion.*
+
 
 ## Environments and Technologies Used 
 
